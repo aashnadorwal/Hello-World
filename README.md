@@ -1,3 +1,12 @@
+# CONTENTS
+- Hello World
+- Project Title
+- Description
+- How to Run Program
+- Files Used
+- Additional Documentation
+- Versioning
+
 # Hello-World
 This is my first repository for BAIS Professional Prep Course
 
