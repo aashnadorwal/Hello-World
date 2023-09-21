@@ -1,15 +1,15 @@
 # Hello-World
+This is my first repository for BAIS Professional Prep Course
 
 # Project Title
 Hello World Sample Repository
 
 # Description
-This a a sample respository that includes a project called 'Hello World'
+This is sample repository that includes a project called 'Hello World'
 
 # How to Run Program
 Here is how to run the program:
-'code'
-Hello_World
+'code' Hello_World
 
 # Files Used
 
