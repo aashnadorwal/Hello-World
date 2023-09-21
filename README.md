@@ -2,7 +2,7 @@
 - Hello-World
 - Project Title
 - Description
-- Code
+- Python Code
 - Files Used
 - Additional Documentation
 - Versioning
@@ -17,7 +17,7 @@ This is my first repository for the BAIS Professional Prep Course at UIOWA
 This is a sample repository that includes a project called 'Hello-World'
 
 # Code
-Here is how to run the program with the following code:
+Here is the Python code:
 
 ```
 print("Hello World")
