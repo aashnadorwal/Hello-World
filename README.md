@@ -1,12 +1,3 @@
-# CONTENTS
-- Hello-World
-- Project Title
-- Description
-- Python Code
-- Files Used
-- Additional Documentation
-- Versioning
-
 # Hello-World
 This is my first repository for the BAIS Professional Prep Course at UIOWA
 
