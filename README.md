@@ -30,3 +30,6 @@ There were **NO** files used within this project.
 Here is an additional link to writing a Hello-World code in Python: [Python Hello-World](https://www.learnpython.org/en/Hello,_World!)
 
 # Versioning
+1. First version: Writing the title and description
+2. Second version: Writing the code
+3. Third version: Finished
