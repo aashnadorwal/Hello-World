@@ -1,5 +1,5 @@
 # CONTENTS
-- Hello World
+- Hello-World
 - Project Title
 - Description
 - How to Run Program
@@ -8,17 +8,20 @@
 - Versioning
 
 # Hello-World
-This is my first repository for BAIS Professional Prep Course
+This is my first repository for the BAIS Professional Prep Course at UIOWA
 
 # Project Title
-Hello World Sample Repository
+Hello-World Sample Repository
 
 # Description
-This is sample repository that includes a project called 'Hello World'
+This is a sample repository that includes a project called 'Hello World'
 
 # How to Run Program
 Here is how to run the program:
-'code' Hello_World
+
+```
+print("Hello World"
+```
 
 # Files Used
 
